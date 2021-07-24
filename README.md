@@ -1,19 +1,20 @@
+<img src="./Github Cover.png">
 <h1 align="center">Hi there 👋, I am Ayush Singh</h1>
 
 <p align="center">
   <samp>
-I am a passion driven engineer working in Oracle Financial Services and have graduated from Sardar Patel Institute of Technology. I am a Software Developer with some experience in Web Development adn Problem Solving. I am a curious learner trying to improve my skills and learn new things. 
+I am a passion driven engineer working in Oracle Financial Services and have graduated from Sardar Patel Institute of Technology, Mumbai. I am a Software Developer with some experience in Web Development adn Problem Solving. I am a curious learner trying to improve my skills and learn new things. 
   </samp><br><br>
 <p align="center"><samp>Take a look at my project, you can find the following kind of projects in my profile:</samp></p>
     <ul>
-      <li><a href="https://github.com/ayushazuri/Portfolio-Website"><samp>Portfolio Website</samp></a></li>
+      <li><a href="https://github.com/ayushazuri/Portfolio-Website"><samp>Portfolio Website.</samp></a></li>
       <li>
           <samp>Clones of Websites such as <a href="https://github.com/ayushazuri/Amazon-Clone"><samp>Amazon</samp></a>, <a href="https://github.com/ayushazuri/Netflix-Clone">Netflix</a>, <a href="https://github.com/ayushazuri/Zoom-Clone">Zoom</a>, <a href="https://github.com/ayushazuri/whatsapp-clone">Whatsapp</a>.</samp>
       </li>
       <li>
         <samp><samp>Backend Projects such as <a href="https://github.com/ayushazuri/task-manager-express-api">Task Manager API</a>, <a href="https://github.com/ayushazuri/todo-app-firebase">Todo app using Firebase</a>, <a href="https://github.com/ayushazuri/data-manager">Data Manager</a>.</samp>
       </li>
-      <li><samp>Repo containing solution to various problems on Data Structure and Algorithms <a href="https://github.com/ayushazuri/Data_Structures_and_Algorithms_2021">Intermediate Level</a>, <a href="https://github.com/ayushazuri/Data-Structures-and-Algorithms">Beginner Level</a></samp></li>
+      <li><samp>Repo containing solution to various problems on Data Structure and Algorithms <a href="https://github.com/ayushazuri/Data_Structures_and_Algorithms_2021">Intermediate Level</a>, <a href="https://github.com/ayushazuri/Data-Structures-and-Algorithms">Beginner Level</a>.</samp></li>
       <li><samp>Check out few more <a href="https://github.com/ayushazuri?tab=repositories">Repositories</a></samp></li>
     </ul><br><br>
     <div align="center"><img src="https://komarev.com/ghpvc/?username=ayushazuri" alt="ayushazuri" /> </div>
@@ -37,7 +38,7 @@ I am a passion driven engineer working in Oracle Financial Services and have gra
   <img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=for-the-badge&logo=adobexd&logoColor=white"/>&nbsp;&nbsp;
 </p>
 
-<h2 align="center">🐦 Github Statistics </h2>
+<h2 align="center"📈 Github Statistics </h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ayushazuri&show_icons=true&theme=radical" alt="ayushazuri" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushazuri&layout=compact" alt="ayushazuri" />&nbsp;&nbsp;&nbsp;&nbsp; 
