@@ -3,7 +3,7 @@
 
 <p align="center">
   <samp>
-I am a passion driven engineer working in Oracle Financial Services and have graduated from Sardar Patel Institute of Technology, Mumbai. I am a Software Developer with some experience in Web Development adn Problem Solving. I am a curious learner trying to improve my skills and learn new things. 
+I am a passion driven engineer working in Oracle Financial Services and have graduated from Sardar Patel Institute of Technology, Mumbai. I am a Software Developer with some experience in Web Development and Problem Solving. I am a curious learner trying to improve my skills and learn new things. 
   </samp><br><br>
 <p align="center"><samp>Take a look at my project, you can find the following kind of projects in my profile:</samp></p>
     <ul>
